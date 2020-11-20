@@ -1,4 +1,5 @@
-# How to install macOS Big Sur on an Unsupported Mac : Example: MacBook Pro Late 2011
+# How to install macOS Big Sur on an Unsupported Mac
+## My Test: MacBook Pro Late 2011
 
 
 1. By "Disk Utility" => add "New Volume" to "Your SSD" as "APFS format"
