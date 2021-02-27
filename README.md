@@ -8,8 +8,8 @@
      after select "Show All Devices" : then "Erase" from Top of "USB"
 	* Name: MyVolume
 	* Format: Mac OS Extended (Journaled)
-        * Schme: GUID Partition Map
-        * 
+	* Schme: GUID Partition Map
+
     - if you use "SD Card", do not use "USB hub", use "usb sd card reader"
 
 3. Download : InstallAssistant.pkg
